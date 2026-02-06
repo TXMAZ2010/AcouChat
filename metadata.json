@@ -1,0 +1,7 @@
+{
+  "name": "AcouChat",
+  "description": "Secure, E2EE offline text communication over audio signals (300-3400Hz) designed for phone calls and noisy environments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
